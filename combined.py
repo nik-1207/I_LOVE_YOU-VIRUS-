@@ -64,10 +64,9 @@ def i_love_you():
     speech.save("sample.mp3")
     return None
 def play():
-    os.system('C:/Users/nmkni/.PyCharm2018.3/config/scratches/sample.mp3')
+    os.system("path for sample.m3 file")
     return None
 i_love_you()
-#play()
 while(1):
     m=Controller()
     hang()
