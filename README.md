@@ -2,7 +2,7 @@
 This is a malicious program.   
 I am not responsible for any of illegal work you do with that.  
 It is developed for education purposes only do not try this on your main machine .  
-It might cause damaje to your computer.    
+It might cause damage to your computer.    
 # Developers  
 v 0.0.1  
 Head developer: NIkhil Mohan  
